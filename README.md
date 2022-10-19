@@ -1,3 +1,3 @@
 # C PROGRAMMING
 
-A repository on C language scripting and exection
+A repository on C language scripting and execution
