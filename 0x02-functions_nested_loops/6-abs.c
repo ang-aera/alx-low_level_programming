@@ -2,7 +2,7 @@
 #include <unistd.h>
 
 /**
- * _abs: Computes absolute value of integer
+ * _abs - Computes absolute value of integer
  * @c: the number to be computed
  *
  * Return: Absolute value of number or zero
